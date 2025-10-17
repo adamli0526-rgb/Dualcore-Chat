@@ -1,7 +1,7 @@
 # DualCore Chat — Privacy-first multi-AI desktop client
 
 <p align="center">
-  <img src="assets/dualcore_logo_1024.png" width="140" alt="DualCore Chat logo" />
+  <img src="dualcore_logo_1024.png" width="140" alt="DualCore Chat logo" />
 </p>
 
 ## 🚀 Overview
@@ -13,15 +13,15 @@ DualCore Chat is a **desktop client for multiple AI models**, built with **Tauri
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="assets/screenshot1.jpg" width="600" /><br/>
+  <img src="screenshot1.jpg" width="600" /><br/>
   <em>Chat interface</em>
 </p>
 <p align="center">
-  <img src="assets/screenshot2.jpg" width="600" /><br/>
+  <img src="screenshot2.jpg" width="600" /><br/>
   <em>Model settings page</em>
 </p>
 <p align="center">
-  <img src="assets/screenshot3.jpg" width="600" /><br/>
+  <img src="screenshot3.jpg" width="600" /><br/>
   <em>Memory & history view</em>
 </p>
 
