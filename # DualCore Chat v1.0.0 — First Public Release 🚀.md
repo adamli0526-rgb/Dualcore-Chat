@@ -26,6 +26,6 @@ We’re excited to launch the first public release of **DualCore Chat**, a priva
 - Offline RAG with local embeddings  
 
 ## 📥 Download
-👉 [Download here](https://github.com/adamli0526-rgb/dualcore-chat/releases/latest)  
+👉 [Download here](https://github.com/adamli0526-rgb/dualcore-chat)  
 
-Thank you for trying **DualCore Chat**! Feedback is welcome in [Issues](../../issues) or [Discussions](../../discussions).  
+Thank you for trying **DualCore Chat**!
